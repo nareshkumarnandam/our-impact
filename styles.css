@@ -534,7 +534,7 @@ footer{
     justify-self: center;
     margin-left: 10px;
     overflow-x: hidden;
-    margin-top: -85rem;
+    margin-top: 15rem;
     /* top: 10vh; */
 }
 }
@@ -2334,7 +2334,7 @@ font-size: 12px;
         background-color: #A7E92F;
         height: 60px;
         min-width: 95%;
-        top: 90vh;
+        top: 85vh;
         /* left: 1.5vw; */
         justify-content: center;
         align-items: center;
@@ -2400,7 +2400,7 @@ font-size: 12px;
         flex-direction: column;
         width: 100%;
         overflow: hidden;
-        top: -20vh;
+        top: -10vh;
     }
     .box1Cont, .box2Cont {
         width: 90%;
@@ -2439,7 +2439,7 @@ font-size: 12px;
         height: auto;
         justify-content: center;
         flex-direction: row;
-        top: -15vh;
+        top: -5vh;
         padding: 0 10px;
     }
     .section3flex{
@@ -2483,15 +2483,16 @@ font-size: 12px;
         padding-top: 10px;
     }
     .numberinglast{
-        position: block;
+        position: relative;
         color: #1B1B1C;
         font-size: 32px;
         font-weight: 600;
         font-family: "Noto Sans", sans-serif;
         rotate: 90deg;
-        top: 26.5vh;
+        height: 1rem;
         bottom: 0vh;
-        right: 38vw;
+        top: 20vh;
+        right: 36vw;
         letter-spacing: -1.28px;
     }
     .mapImage{
@@ -2501,7 +2502,7 @@ font-size: 12px;
         width: 95vw;
         height: auto;
         padding: 20px;
-        bottom: 10vh;
+        bottom: 0vh;
         object-fit: cover;
         overflow-x: hidden;
     }
@@ -2534,22 +2535,22 @@ font-size: 12px;
     }
     .mapNumber1{
         background-color: #016a2b;
-        top: 21vh;
+        top: 15vh;
         left: 28vw;
     }
     .mapNumber3{
         background-color: #016a2b;
-        top: 12vh;
+        top: 8vh;
         left: 63vw;
     }
     .mapNumber2{
         background-color: #272C33;
-        top: 17vh;
+        top: 12vh;
         left: 48vw;
     }
     .mapNumber4{
         background-color: #272C33;
-        top: 20vh;
+        top: 15vh;
         left: 75vw;
     }
     .mapcount{
@@ -2611,14 +2612,14 @@ font-size: 12px;
     .decoration{
         position: relative;
         justify-content: flex-end;
-        width: 70vw;
-        height: 30vh;
-        top: -35vh;
-        left: 26vw;
+        width: 60vw;
+        height: 20vh;
+        top: -28vh;
+        left: 15vh;
         z-index: 1;
         background-image: url("./6508562854af7771ab9805c7_Indrive-decoration.svg");
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: cover;
         /* border-radius: 32px; */
     
     }
@@ -2643,7 +2644,7 @@ font-size: 12px;
         width: 100%;
         margin: 0;
         position: relative;
-        bottom: 25vh;
+        bottom: 0vh;
         gap: 10px;
         justify-content: flex-start;
         padding: 30px;
@@ -2667,7 +2668,7 @@ font-size: 12px;
         flex-direction: column;
         width: 100%;
         overflow: hidden;
-        top: -60vh;
+        top: -40vh;
     }
     .box1Cont, .box2Cont {
         width: 100%;
@@ -2700,7 +2701,7 @@ font-size: 12px;
         justify-content: center;
         flex-direction: column;
         align-items: center;
-        top: -140vh;
+        top: -50vh;
     }
     .section6flex{
         position: relative;
@@ -2777,7 +2778,7 @@ font-size: 12px;
         flex-wrap: wrap;
         flex-direction: column;
         margin: 0;
-        top: -110vh;
+        top: -20vh;
         gap: 25px;
         width: 95vw;
     }
@@ -2811,7 +2812,7 @@ font-size: 12px;
         flex-direction: column;
         width: 100%;
         overflow: hidden;
-        top: -60vh;
+        top: -30vh;
     }
     .box1Cont, .box2Cont {
         width: 100%;
@@ -2843,7 +2844,7 @@ font-size: 12px;
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        top: -160vh;
+        top: -20vh;
         align-self: center;
     }
     .section6flex{
@@ -2868,7 +2869,7 @@ font-size: 12px;
         object-fit: cover;
         justify-items: center;
         position: relative;
-        top: 30vh;
+        top: 10vh;
     }
     .lastcolumn8{
         width: 100%;
@@ -2901,7 +2902,7 @@ font-size: 12px;
         flex-direction: column;
         margin: 20px;
         gap: 25px;
-        top: -85vh;
+        top: 35vh;
     }
     .container9{
         display: flex;
@@ -2930,7 +2931,7 @@ font-size: 12px;
         flex-direction: column;
         width: 100%;
         overflow: hidden;
-        top: -85vh;
+        top: -55vh;
     }
     .box1Contsection9, .box2Contsection9 {
         width: 95%;
@@ -2962,7 +2963,7 @@ font-size: 12px;
         height: auto;
         justify-content: center;
         flex-direction: row;
-        top: -150vh;
+        top: 0vh;
         justify-content: center;
         align-items: center;
     }
@@ -3033,7 +3034,7 @@ font-size: 12px;
         flex-direction: column;
         margin: 0;
         gap: 25px;
-        top: -155vh;
+        top: 15vh;
         overflow-x: hidden;
     }
     .container11{
@@ -3066,7 +3067,7 @@ font-size: 12px;
         width: 100%;
         overflow: hidden;
         padding: 10px 20px;
-        top: -95vh;
+        top: -55vh;
     }
     .box1Contsection11, .box2Contsection11 {
         width: 100%;
@@ -3100,7 +3101,7 @@ font-size: 12px;
         width: 95vw;
         justify-content: center;
         flex-direction: column;
-        top: -250vh;
+        top: -40vh;
         align-items: center;
         overflow-x: hidden;
     }
@@ -3132,7 +3133,7 @@ font-size: 12px;
         height: auto;
         object-fit: cover;
         justify-items: center;
-        top: 27vh;
+        top: 20vh;
     }
     .imageIcon12{
         width: 70%;
@@ -3146,7 +3147,7 @@ font-size: 12px;
     } */
     .lastcolumn12{
         position: relative;
-        top: -85vh;
+        top: -65vh;
         width: 100%;
     }
     .lastcolumn12Image{
@@ -3161,7 +3162,7 @@ font-size: 12px;
         margin: 20px 10px;
         border-radius: 48px;
         padding: 0;
-        top: -250vh;
+        top: -10vh;
         overflow-x: hidden;
         justify-content: center;
         align-items: center;
